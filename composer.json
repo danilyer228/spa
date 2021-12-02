@@ -1,0 +1,15 @@
+{
+    "name": "danilyer228/my-cool-spa",
+    "authors": [
+        {
+            "name": "danilyer228",
+            "email": "danilsirotalol@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Danilyer\\App\\": "src"
+        }
+    }
+}
